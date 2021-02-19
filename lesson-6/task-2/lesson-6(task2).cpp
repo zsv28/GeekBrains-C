@@ -57,4 +57,6 @@ int main()
 	initArray(ptrArr, m, n);
 	printArray(ptrArr, m, n);
 	freeMem(ptrArr, n);
+	
+	return 0;
 }
