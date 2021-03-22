@@ -257,4 +257,5 @@ int main()
 	}
 	else
 		cout << "No! f1 < f2";
+	return 0;
 }
