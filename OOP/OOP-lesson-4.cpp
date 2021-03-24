@@ -330,4 +330,6 @@ int main()
 	v.erase(unique(v.begin(), v.end()), v.end());
 	printV(v);
 	cout << endl << "Different numbers: " << v.size() << endl;
+	
+	return 0;
 }
